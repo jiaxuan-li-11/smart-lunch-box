@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">smartLunchBox</string>
+    <string name="title_home">Calories Weight</string>
+    <string name="title_dashboard">Dashboard</string>
+</resources>
